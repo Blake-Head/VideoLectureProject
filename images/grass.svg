@@ -1,0 +1,19 @@
+<svg width="600" height="300" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Base grass field (darker) -->
+  <rect x="0" y="0" width="600" height="300" fill="#3E8E41"></rect>
+
+  <!-- Grass patches (darker variants) -->
+  <circle cx="80" cy="60" r="6" fill="#2E7D32"></circle>
+  <circle cx="140" cy="90" r="5" fill="#4CAF50"></circle>
+  <circle cx="220" cy="50" r="7" fill="#2E7D32"></circle>
+  <circle cx="300" cy="120" r="6" fill="#4CAF50"></circle>
+  <circle cx="380" cy="80" r="5" fill="#2E7D32"></circle>
+  <circle cx="460" cy="140" r="7" fill="#4CAF50"></circle>
+  <circle cx="520" cy="60" r="6" fill="#2E7D32"></circle>
+
+  <circle cx="100" cy="200" r="6" fill="#4CAF50"></circle>
+  <circle cx="200" cy="230" r="5" fill="#2E7D32"></circle>
+  <circle cx="320" cy="210" r="7" fill="#4CAF50"></circle>
+  <circle cx="420" cy="240" r="6" fill="#2E7D32"></circle>
+  <circle cx="540" cy="220" r="5" fill="#4CAF50"></circle>
+</svg>
