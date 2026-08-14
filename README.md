@@ -25,9 +25,19 @@ To get started using manim, head to the following link and follow the installati
 
 https://www.manim.community/
 
-# Current Tasks
+# Videos so far
 
-To see a list of the current task list, check the "Issues" page above. 
+## Electric Field Series
+
+- Introduction - https://www.youtube.com/watch?v=_Am-yWbw_tw
+- Superposition - https://www.youtube.com/watch?v=mrVGPfvOsKM
+- Distributions of Charge - https://www.youtube.com/watch?v=l_WHfCIbhyU
+
+## Gauss's Law Series
+
+- Area Vectors - https://www.youtube.com/watch?v=hw4QuQ1jw2s
+- Flux - https://www.youtube.com/watch?v=NP1oBzspYNo
+- Gauss's Law - https://www.youtube.com/watch?v=8YacCGmj3JA
 
 # A note on Organization
 
