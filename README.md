@@ -1,39 +1,13 @@
-<<<<<<< HEAD
 # Video Lecture Project
-=======
-# Video Lecture Project Repository
->>>>>>> 87bf497da37ec5959b2713ced49be6779008ee1a
 <p align="center">
  <img src="https://github.com/user-attachments/assets/b970e089-0aa9-4b07-9f39-b8a795e9e953">
 </p>
 
-<<<<<<< HEAD
-=======
-# Physics Lecture Videos produce
->>>>>>> 87bf497da37ec5959b2713ced49be6779008ee1a
  
 (Last Updated: August 14, 2026)
 
 This is a repository for the purpose of storing and collaborating on physics video lecture projects at East Texas A&M University.
 
-<<<<<<< HEAD
-=======
-The currently complete videos are linked here:
-
-## Introduction to Electric Fields Series
-
-- https://www.youtube.com/watch?v=_Am-yWbw_tw - (Introduction)
-- https://www.youtube.com/watch?v=mrVGPfvOsKM - (Superposition)
-- https://www.youtube.com/watch?v=l_WHfCIbhyU - (Distributions of Charge)
-
-## Introduction to Gauss's Law Series
-
-- https://www.youtube.com/watch?v=hw4QuQ1jw2s - (The Area Vector)
-- https://www.youtube.com/watch?v=NP1oBzspYNo - (Electric Flux)
-- https://www.youtube.com/watch?v=8YacCGmj3JA - (Gauss’s Law Proper)
-
-
->>>>>>> 87bf497da37ec5959b2713ced49be6779008ee1a
 # Manim
 
 To get familiar with the kind of style we will be aiming for, I would reccommend you watch a video or two from these two channels:
@@ -45,7 +19,6 @@ https://www.youtube.com/@RichBehiel/videos - Rich Behiel
 To get started using manim, head to the following link and follow the installation procedure. 
 
 https://www.manim.community/
-<<<<<<< HEAD
 
 # Videos so far
 
@@ -61,5 +34,3 @@ https://www.manim.community/
 - Flux - https://www.youtube.com/watch?v=NP1oBzspYNo
 - Gauss's Law - https://www.youtube.com/watch?v=8YacCGmj3JA
 
-=======
->>>>>>> 87bf497da37ec5959b2713ced49be6779008ee1a
