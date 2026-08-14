@@ -8,6 +8,8 @@
 
 This is a repository for the purpose of storing and collaborating on physics video lecture projects at East Texas A&M University.
 
+New completed videos will be added here in the README.  Please email thomas.head@etamu.edu if you have any questions. 
+
 # Manim
 
 To get familiar with the kind of style we will be aiming for, I would reccommend you watch a video or two from these two channels:
