@@ -13,19 +13,15 @@ The currently complete videos are linked here:
 
 ## Introduction to Electric Fields Series
 
-https://www.youtube.com/watch?v=_Am-yWbw_tw (Introduction)
-
-https://www.youtube.com/watch?v=mrVGPfvOsKM (Superposition)
-
-https://www.youtube.com/watch?v=l_WHfCIbhyU (Distributions of Charge)
+- https://www.youtube.com/watch?v=_Am-yWbw_tw (Introduction)
+- https://www.youtube.com/watch?v=mrVGPfvOsKM (Superposition)
+- https://www.youtube.com/watch?v=l_WHfCIbhyU (Distributions of Charge)
 
 ## Introduction to Gauss's Law Series
 
-https://www.youtube.com/watch?v=hw4QuQ1jw2s (The Area Vector)
-
-https://www.youtube.com/watch?v=NP1oBzspYNo (Electric Flux)
-
-https://www.youtube.com/watch?v=8YacCGmj3JA (Gauss’s Law Proper)
+- https://www.youtube.com/watch?v=hw4QuQ1jw2s (The Area Vector)
+- https://www.youtube.com/watch?v=NP1oBzspYNo (Electric Flux)
+- https://www.youtube.com/watch?v=8YacCGmj3JA (Gauss’s Law Proper)
 
 
 # Manim
